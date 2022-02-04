@@ -1,6 +1,6 @@
 # Python Implementation of Blockchain
 
-Note: This project is done and can be referred for learning purposes only and it is not a production ready project.
+Note: This project is done and can be referred only for learning purposes and it is not a production ready project.
 
 ## Dependencies
 
